@@ -1,0 +1,6 @@
+{
+  "name": "TestSuiteGen",
+  "description": "An AI-powered system that generates comprehensive unit, integration, and end-to-end test cases and configurations across multiple programming languages and frameworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
